@@ -10,6 +10,7 @@ Bu proje, HTML, CSS ve Bootstrap kütüphanesi kullanılarak geliştirilmiştir.
 - Modern ve duyarlı tasarım
 - Kullanıcı dostu arayüz
 
-![](screen.gif)
+
+![Education Projesi gif](https://github.com/user-attachments/assets/159d8608-9c51-462a-991c-cfdbb7cd904d)
 
 
